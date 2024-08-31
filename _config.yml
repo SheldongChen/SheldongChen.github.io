@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhuo Chen"
-description              : "The homepage of Zhuo Chen. "
-repository               : "FreshHillyer/acad-homepage.github.io"
+title                    : "Xiaodong Chen"
+description              : "The homepage of Xiaodong Chen. "
+repository               : "SheldongChen/SheldongChen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhuo Chen"
+  name             : "Xiaodong Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "University of Science and Technology of China"
+  location         : "Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=tQL4tSMAAAAJ"
-  email            : "hypothesiser.hypo@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=FZJ-fFYAAAAJ"
+  email            : "cxd1230(AT)mail(DOT)ustc(DOT)edu(DOT)cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "FreshHillyer"
+  github           :  "SheldongChen"
   google_plus      :
   keybase          :
   instagram        :
