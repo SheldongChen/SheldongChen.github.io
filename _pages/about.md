@@ -16,50 +16,60 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-My name is Zhuo Chen. I am a ZJU phd student (since 2020). I graduated from Huazhong University of Science and Technology (HUST) with a bachelor’s degree from the Department of Computer Science and Technology. My doctoral supervisors are Prof. [Lei Wu](https://leiwu.org/) and Prof. [Yajin Zhou](http://yajin.org/).
-My research interest includes AI-assisted static analysis, Android security (malware detection), decentralized finance (DeFi) security (smart contract vulnerability detection), and underground ecnomy detection (anti money laundering).
+I am currently studying for a Ph. D. degree in University Of Science And Technology Of China (USTC). My supervisor is Prof. Zheng-Jun Zha. 
+I am also a Junior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. Wu Liu and Dr. Tao Mei.
+My research interests include multimedia computing, computer vision, and their applications in retail.
 
 
 
 # 🔥 News
-- *2024.8*: &nbsp;🎉🎉 NDSS'25: Dissecting Payload-based Transaction Phishing on Ethereum.
-- *2024.7*: &nbsp;🎉🎉 TDSC'24: MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain.
-- *2023.10*: &nbsp;🎉🎉 TDSC'23: Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps.
-- *2023.09*: &nbsp;🎉🎉 CCS'23: Towards Detecting and Understanding   Transaction-based Phishing on Ethereum.
+- *2024.08*: &nbsp;🎉🎉 two paper are accpepted by ACM Multimedia, 2024.
+- *2024.06*: &nbsp;🎉🎉 one paper are published by CVPR 2024.
+
 
 # 📝 Publications 
 
-- [NDSS'25] [Dissecting Payload-based Transaction Phishing on Ethereum]()
-  - **Zhuo Chen**, Yufeng Hu, Bowen He, Dong Luo, Lei Wu, and Yajin Zhou
-  - Network and Distributed System Security (NDSS) Symposium
-- [TDSC'24] [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain]()
-  - Yufeng Hu, Yingshi Sun, Yuan Chen, **Zhuo Chen**, Bowen He, Lei Wu, Yajin Zhou and Rui Chang
-  - IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
-- [TDSC'23] [Lifting The Grey Curtain: Analyzing the Ecosystem of Android Scam Apps](https://www.computer.org/csdl/journal/tq/5555/01/10304303/1RIVkkCo9dm)
-  - **Zhuo Chen**, Lei Wu, Yubo Hu, Jing Cheng, Yufeng Hu, Yajin Zhou, Zhushou Tang, Yexuan Chen, Jinku Li and Kui Ren
-  - IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
+- [MM'24] [AnimateAnywhere: Context-Controllable Human Video Generation with ID-Consistent One-shot Learning]()
+  - **Xiaodong Chen**, Kunlang He, Wu Liu, Xinchen Liu, Zheng-Jun Zha, Tao Mei
+  - 2024 Proceedings of the 32th ACM International Conference on Multimedia
+- [MM'24] [AnimateAnywhere: Context-Controllable Human Video Generation with ID-Consistent One-shot Learning]()
+  - Hengyuan Liu, **Xiaodong Chen**, Xinchen Liu, Xiaoyan Gu, Wu Liu
+  - 2024 Proceedings of the 32th ACM International Conference on Multimedia
+- [CVPR'24] [ChatVTG: Video Temporal Grounding via Chat with Video Dialogue Large Language Models](https://openaccess.thecvf.com/content/CVPR2024W/PVUW/papers/Qu_ChatVTG_Video_Temporal_Grounding_via_Chat_with_Video_Dialogue_Large_CVPRW_2024_paper.pdf)
+  - Mengxue Qu, **Xiaodong Chen**, Wu Liu, Alicia Li, Yao Zhao
+  - 2024 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+- [MM'22] [MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised Point Cloud Action Recognition](https://arxiv.org/pdf/2209.00407)
+  - **Xiaodong Chen**, Wu Liu, Xinchen Liu, Yongdong Zhang, Jungong Han, Tao Mei
+  - 2022 Proceedings of the 30th ACM International Conference on Multimedia
+- [ISCAS'22] [Part-Level Action Parsing via a Pose-Guided Coarse-to-Fine Framework](https://arxiv.org/pdf/2203.04476)
+  - **Xiaodong Chen**, Xinchen Liu, Wu Liu, Kun Liu, Dong Wu, Yongdong Zhang, Tao Mei
+  - 2022 IEEE International Symposium on Circuits and Systems
+- [ICCV'21] [Explainable Person Re-Identification with Attribute-guided Metric Distillation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Explainable_Person_Re-Identification_With_Attribute-Guided_Metric_Distillation_ICCV_2021_paper.pdf)
+  - **Xiaodong Chen**, Xinchen Liu, Wu Liu, Xiao-Ping Zhang, Yongdong Zhang, Tao Mei
+  - 2021 IEEE/CVF International Conference on Computer Vision
+- [ICCV'21] [A Baseline Framework for Part-level Action Parsing and Action Recognition](https://deeperaction.github.io/iccv21/report2/track3-top2.pdf)
+  - **Xiaodong Chen**, Xinchen Liu, Kun Liu, Wu Liu, Tao Mei
+  - 2021 IEEE/CVF International Conference on Computer Vision
+- [MM'20] [A Cross-modality and Progressive Person Search System](http://xinchenliu.com/papers/2020_ACMMM_CPPS.pdf) 
+  - **Xiaodong Chen**, Wu Liu, Xinchen Liu, Yongdong Zhang, Tao Mei
+  - 2020 Proceedings of the 28th ACM International Conference on Multimedia
 
-- [CCS'23] [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://yajin.org/papers/ccs23_phishing.pdf)
-  - Bowen He, Yuan Chen, **Zhuo Chen**, Xiaohui Hu, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang and Yajin Zhou
-  - Proceedings of the ACM Conference on Computer and Communications Security
 
-- [ISSTA'23] [Detecting Underground Economy Apps Based on UTG Similarity](https://yajin.org/papers/issta23_DeUEDroid.pdf) 
-  - **Zhuo Chen**, Jie Liu, Yubo Hu, Lei Wu, Yajin Zhou, Yiling He, Xianhao Liao, Ke Wang, Jinku Li, Zhan Qin 
-  - Proceedings of the 2023 ACM SIGSOFT International Symposium on Software Testing and Analysis
 
 # 📖 Educations
-- *2020.06 - 2025.04 (now)*, Ph.D., Computer Science and Technology, Zhejiang University.
-- *2016.09 - 2020.06*, Bachelor's degree, Computer Science and Technology, Huazhong University of Science and Technology.
+- *2020.09 - 2026.07 (now)*, Ph.D., Automation, University Of Science And Technology Of China.
+- *2018.02 - 2018.06*, Student-exchange Project of the [C9 League](https://en.wikipedia.org/wiki/C9_League), Electronic Science and technology, Zhejiang University.
+- *2016.09 - 2020.06*, Bachelor's degree, Electronic Science and technology, University Of Science And Technology Of China.
 
 
 # 💻 Internships
-- *2019.05 - 2019.09*, ByteDance, Backend Development Intern, China.
-- *2022.04 - 2023.04*, Ant Group, Research Intern, China.
-- *2023.05 - 2024.02 (now)*, BlockSec, Research Intern, China.
+- *2021.04 - 2024.06*, JD.com, Research Intern, China.
 
-# 📝 Blogs
-- *Android Crash*
-  - [Blog-1](https://zhuanlan.zhihu.com/p/262171214), [Blog-2](https://zhuanlan.zhihu.com/p/262509068), [Blog-3](https://zhuanlan.zhihu.com/p/264378448), [Blog-4](https://zhuanlan.zhihu.com/p/265519725)
-- *Android Tombstone Analysis*
-  - [Blog-1](https://zhuanlan.zhihu.com/p/196438927),[Blog-2](https://zhuanlan.zhihu.com/p/262509068)
+# 📝 Honors
+- *2024.08*, SIGMM Student Travel Grant Award.
+- *2023.02*, National Scholarship.
+- *2022.06*, IEEE MSA-Technical Committee Best Paper Award-Honorable Mention.
+- *2021.12*, Hua Wei Scholarship.
+- *2021.09*, First Runner-up in ICCV 2021 [DeeperAction](https://deeperaction.github.io/iccv21) Challenge - Kinetics-TPS Track.
+- *2020-2024*, First Prize of Ph.D/M.D Scholarship
+- *2016-2020*, Gold Scholarship for Outstanding Students
