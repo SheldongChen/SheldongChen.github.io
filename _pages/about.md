@@ -23,8 +23,9 @@ My research interests include multimedia computing, computer vision, and their a
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 two paper are accpepted by ACM Multimedia, 2024.
-- *2024.06*: &nbsp;🎉🎉 one paper are published by CVPR 2024.
+- *2024.08*: &nbsp;🎉🎉 SIGMM Student Travel Grant Award.
+- *2024.07*: &nbsp;🎉🎉 two paper are accpepted by ACM Multimedia.
+- *2024.06*: &nbsp;🎉🎉 one paper are published by CVPR.
 
 
 # 📝 Publications 
