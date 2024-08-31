@@ -30,7 +30,7 @@ My research interests include multimedia computing, computer vision, and their a
 
 # 📝 Publications 
 
-- [MM'24] [AnimateAnywhere: Context-Controllable Human Video Generation with ID-Consistent One-shot Learning]()
+- [MM'24] [CLaM: An Open-Source Library for Performance Evaluation of Text-driven Human Motion Generation]()
   - **Xiaodong Chen**, Kunlang He, Wu Liu, Xinchen Liu, Zheng-Jun Zha, Tao Mei
   - 2024 Proceedings of the 32th ACM International Conference on Multimedia
 - [MM'24] [AnimateAnywhere: Context-Controllable Human Video Generation with ID-Consistent One-shot Learning]()
