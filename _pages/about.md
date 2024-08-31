@@ -55,17 +55,6 @@ My research interests include multimedia computing, computer vision, and their a
   - **Xiaodong Chen**, Wu Liu, Xinchen Liu, Yongdong Zhang, Tao Mei
   - 2020 Proceedings of the 28th ACM International Conference on Multimedia
 
-
-
-# 📖 Educations
-- *2020.09 - 2026.07 (now)*, Ph.D., Automation, University Of Science And Technology Of China.
-- *2018.02 - 2018.06*, Student-exchange Project of the [C9 League](https://en.wikipedia.org/wiki/C9_League), Electronic Science and technology, Zhejiang University.
-- *2016.09 - 2020.06*, Bachelor's degree, Electronic Science and technology, University Of Science And Technology Of China.
-
-
-# 💻 Internships
-- *2021.04 - 2024.06*, JD.com, Research Intern, China.
-
 # 📝 Honors
 - *2024.08*, SIGMM Student Travel Grant Award.
 - *2023.02*, National Scholarship.
@@ -74,3 +63,16 @@ My research interests include multimedia computing, computer vision, and their a
 - *2021.09*, First Runner-up in ICCV 2021 [DeeperAction](https://deeperaction.github.io/iccv21) Challenge - Kinetics-TPS Track.
 - *2020-2024*, First Prize of Ph.D/M.D Scholarship
 - *2016-2020*, Gold Scholarship for Outstanding Students
+
+# 💻 Internships
+- *2021.04 - 2024.06*, JD.com, Research Intern, China.
+
+# 📖 Educations
+- *2020.09 - 2026.07 (now)*, Ph.D., Automation, University Of Science And Technology Of China.
+- *2018.02 - 2018.06*, Student-exchange Project of the [C9 League](https://en.wikipedia.org/wiki/C9_League), Electronic Science and technology, Zhejiang University.
+- *2016.09 - 2020.06*, Bachelor's degree, Electronic Science and technology, University Of Science And Technology Of China.
+
+
+
+
+
