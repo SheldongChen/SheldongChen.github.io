@@ -48,9 +48,9 @@ My research interests include multimedia computing, computer vision, and their a
 - [ICCV'21] [Explainable Person Re-Identification with Attribute-guided Metric Distillation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Explainable_Person_Re-Identification_With_Attribute-Guided_Metric_Distillation_ICCV_2021_paper.pdf)
   - **Xiaodong Chen**, Xinchen Liu, Wu Liu, Xiao-Ping Zhang, Yongdong Zhang, Tao Mei
   - 2021 IEEE/CVF International Conference on Computer Vision
-- [ICCV'21] [A Baseline Framework for Part-level Action Parsing and Action Recognition](https://deeperaction.github.io/iccv21/report2/track3-top2.pdf)
+- [DeepAction@ICCV'21] [A Baseline Framework for Part-level Action Parsing and Action Recognition](https://deeperaction.github.io/iccv21/report2/track3-top2.pdf)
   - **Xiaodong Chen**, Xinchen Liu, Kun Liu, Wu Liu, Tao Mei
-  - 2021 IEEE/CVF International Conference on Computer Vision
+  - 2021 DeeperAction Challenge of IEEE/CVF International Conference on Computer Vision
 - [MM'20] [A Cross-modality and Progressive Person Search System](http://xinchenliu.com/papers/2020_ACMMM_CPPS.pdf) 
   - **Xiaodong Chen**, Wu Liu, Xinchen Liu, Yongdong Zhang, Tao Mei
   - 2020 Proceedings of the 28th ACM International Conference on Multimedia
