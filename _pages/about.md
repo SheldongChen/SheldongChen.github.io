@@ -45,10 +45,10 @@ My research interests include multimedia computing, computer vision, and their a
 - [ISCAS'22] [Part-Level Action Parsing via a Pose-Guided Coarse-to-Fine Framework](https://arxiv.org/pdf/2203.04476)
   - **Xiaodong Chen**, Xinchen Liu, Wu Liu, Kun Liu, Dong Wu, Yongdong Zhang, Tao Mei
   - 2022 IEEE International Symposium on Circuits and Systems
-- [ICCV'21] [Explainable Person Re-Identification with Attribute-guided Metric Distillation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Explainable_Person_Re-Identification_With_Attribute-Guided_Metric_Distillation_ICCV_2021_paper.pdf)
+- [ICCV'21] [Explainable Person Re-Identification with Attribute-guided Metric Distillation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Explainable_Person_Re-Identification_With_Attribute-Guided_Metric_Distillation_ICCV_2021_paper.pdf) <span class='show_paper_citations' data='FZJ-fFYAAAAJ:u-x6o8ySG0sC'></span>
   - **Xiaodong Chen**, Xinchen Liu, Wu Liu, Xiao-Ping Zhang, Yongdong Zhang, Tao Mei
   - 2021 IEEE/CVF International Conference on Computer Vision
-- [DeepAction@ICCV'21] [A Baseline Framework for Part-level Action Parsing and Action Recognition](https://deeperaction.github.io/iccv21/report2/track3-top2.pdf)<span class='show_paper_citations' data='FZJ-fFYAAAAJ:u-x6o8ySG0sC'></span>
+- [DeepAction@ICCV'21] [A Baseline Framework for Part-level Action Parsing and Action Recognition](https://deeperaction.github.io/iccv21/report2/track3-top2.pdf)
   - **Xiaodong Chen**, Xinchen Liu, Kun Liu, Wu Liu, Tao Mei
   - 2021 DeeperAction Challenge of IEEE/CVF International Conference on Computer Vision
 - [MM'20] [A Cross-modality and Progressive Person Search System](http://xinchenliu.com/papers/2020_ACMMM_CPPS.pdf) 
