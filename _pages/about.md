@@ -30,12 +30,12 @@ My research interests include multimedia computing, computer vision, and their a
 
 # 📝 Publications 
 
-- [MM'24] [CLaM: An Open-Source Library for Performance Evaluation of Text-driven Human Motion Generation]()
+- [MM'24] [CLaM: An Open-Source Library for Performance Evaluation of Text-driven Human Motion Generation](https://SheldongChen.github.io/docs/mm2024_clam.pdf)
   - **Xiaodong Chen**, Kunlang He, Wu Liu, Xinchen Liu, Zheng-Jun Zha, Tao Mei
   - 2024 Proceedings of the 32th ACM International Conference on Multimedia
   - The code is released in the [CLAM](https://github.com/SheldongChen/CLaM) repository ![](https://img.shields.io/github/stars/SheldongChen/CLaM?color=green&style=social)
 
-- [MM'24] [AnimateAnywhere: Context-Controllable Human Video Generation with ID-Consistent One-shot Learning]()
+- [MM'24] [AnimateAnywhere: Context-Controllable Human Video Generation with ID-Consistent One-shot Learning](https://SheldongChen.github.io/docs/mm2024_animateanywhere.pdf)
   - Hengyuan Liu, **Xiaodong Chen**, Xinchen Liu, Xiaoyan Gu, Wu Liu
   - 2024 Proceedings of the 32th ACM International Conference on Multimedia
 
@@ -43,11 +43,11 @@ My research interests include multimedia computing, computer vision, and their a
   - Mengxue Qu, **Xiaodong Chen**, Wu Liu, Alicia Li, Yao Zhao
   - 2024 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
-- [MM'22] [MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised Point Cloud Action Recognition](https://arxiv.org/pdf/2209.00407)
+- [MM'22] [MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised Point Cloud Action Recognition](https://SheldongChen.github.io/docs/mm2022.pdf)
   - **Xiaodong Chen**, Wu Liu, Xinchen Liu, Yongdong Zhang, Jungong Han, Tao Mei
   - 2022 Proceedings of the 30th ACM International Conference on Multimedia
 
-- [ISCAS'22] [Part-Level Action Parsing via a Pose-Guided Coarse-to-Fine Framework](https://arxiv.org/pdf/2203.04476)
+- [ISCAS'22] [Part-Level Action Parsing via a Pose-Guided Coarse-to-Fine Framework](https://SheldongChen.github.io/docs/iscas2022.pdf)
   - **Xiaodong Chen**, Xinchen Liu, Wu Liu, Kun Liu, Dong Wu, Yongdong Zhang, Tao Mei
   - 2022 IEEE International Symposium on Circuits and Systems
 
@@ -61,7 +61,7 @@ My research interests include multimedia computing, computer vision, and their a
   - **Xiaodong Chen**, Xinchen Liu, Kun Liu, Wu Liu, Tao Mei
   - 2021 DeeperAction Challenge of IEEE/CVF International Conference on Computer Vision
 
-- [MM'20] [A Cross-modality and Progressive Person Search System](http://xinchenliu.com/papers/2020_ACMMM_CPPS.pdf) 
+- [MM'20] [A Cross-modality and Progressive Person Search System](https://SheldongChen.github.io/docs/mm2020.pdf) 
   - **Xiaodong Chen**, Wu Liu, Xinchen Liu, Yongdong Zhang, Tao Mei
   - 2020 Proceedings of the 28th ACM International Conference on Multimedia
 
