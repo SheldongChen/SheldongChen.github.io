@@ -51,7 +51,8 @@ My research interests include multimedia computing, computer vision, and their a
   - **Xiaodong Chen**, Xinchen Liu, Wu Liu, Kun Liu, Dong Wu, Yongdong Zhang, Tao Mei
   - 2022 IEEE International Symposium on Circuits and Systems
 
-- [ICCV'21] [Explainable Person Re-Identification with Attribute-guided Metric Distillation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Explainable_Person_Re-Identification_With_Attribute-Guided_Metric_Distillation_ICCV_2021_paper.pdf) <span class='show_paper_citations' data='FZJ-fFYAAAAJ:u-x6o8ySG0sC'></span>
+- [ICCV'21] [Explainable Person Re-Identification with Attribute-guided Metric Distillation](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Explainable_Person_Re-Identification_With_Attribute-Guided_Metric_Distillation_ICCV_2021_paper.pdf) 
+<!-- <span class='show_paper_citations' data='FZJ-fFYAAAAJ:u-x6o8ySG0sC'></span> -->
   - **Xiaodong Chen**, Xinchen Liu, Wu Liu, Xiao-Ping Zhang, Yongdong Zhang, Tao Mei
   - 2021 IEEE/CVF International Conference on Computer Vision
   - The code is integrated into the [FASTREID](https://github.com/JDAI-CV/fast-reid) repository ![](https://img.shields.io/github/stars/JDAI-CV/fast-reid?color=green&style=social)
