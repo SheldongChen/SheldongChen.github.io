@@ -19,8 +19,62 @@ redirect_from:
 I am currently studying for a Ph. D. degree in University Of Science And Technology Of China (USTC). My supervisor is Prof. Zheng-Jun Zha. 
 I am also a Junior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. Wu Liu and Dr. Tao Mei.
 
-My research interests include multimedia computing, computer vision, and their applications in retail. I have published 8 papers at the international conferences with total <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'>google scholar citations <strong><span id='total_cit'>60+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include multimedia computing, computer vision, and their applications in retail. I have published 8 papers at the international conferences with total <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'>google scholar citations <strong><span id='total_cit'>60+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) and <p id="result"></p>.
 
+<script>
+    async function countStars() {
+        const resultElement = document.getElementById('result');
+        const cacheKey = 'githubStarCount';
+        const cacheTimeKey = 'githubStarCacheTime';
+        const cacheDuration = 60 * 60 * 1000; // 1 hour
+        let totalStars = 0;
+
+        // Check cache
+        const cachedTime = localStorage.getItem(cacheTimeKey);
+        const cachedStars = localStorage.getItem(cacheKey);
+
+        if (cachedStars && cachedTime && (Date.now() - cachedTime < cacheDuration)) {
+            resultElement.textContent = `Cached Total Stars: ${cachedStars}`;
+            return;
+        }
+
+        const specificRepo = 'JDAI-CV/fast-reid';
+        const userRepos = 'SheldongChen';
+
+        try {
+            // Fetch stars for the specific repo
+            const specificRepoResponse = await fetch(`https://api.github.com/repos/${specificRepo}`);
+            const specificRepoData = await specificRepoResponse.json();
+
+            if (specificRepoResponse.ok) {
+                totalStars += specificRepoData.stargazers_count;
+            } else {
+                resultElement.textContent = `Error: ${specificRepoData.message}`;
+                return;
+            }
+
+            // Fetch all repos for the user
+            const userReposResponse = await fetch(`https://api.github.com/users/${userRepos}/repos`);
+            const userReposData = await userReposResponse.json();
+
+            if (userReposResponse.ok) {
+                userReposData.forEach(repo => {
+                    totalStars += repo.stargazers_count;
+                });
+                // Save to cache
+                localStorage.setItem(cacheKey, totalStars);
+                localStorage.setItem(cacheTimeKey, Date.now());
+                resultElement.textContent = `total github stars ${totalStars}`;
+            } else {
+                resultElement.textContent = `Error: ${userReposData.message}`;
+            }
+        } catch (error) {
+            resultElement.textContent = `Error: Unable to fetch data`;
+        }
+    }
+
+    window.onload = countStars;
+</script>
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 SIGMM Student Travel Grant Award.
