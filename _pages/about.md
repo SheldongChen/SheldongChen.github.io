@@ -19,7 +19,7 @@ redirect_from:
 I am currently studying for a Ph. D. degree in University Of Science And Technology Of China (USTC). My supervisor is Prof. Zheng-Jun Zha. 
 I am also a Junior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. Wu Liu and Dr. Tao Mei.
 
-My research interests include multimedia computing, computer vision, and their applications in retail. I have published 8 papers at the international conferences with total <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'>google scholar citations <strong><span id='total_cit'>60+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) and [total github stars 3682](https://github.com/SheldongChen).
+My research interests include multimedia computing, computer vision, and their applications in retail. I have published 8 papers at the international conferences with total <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'>google scholar citations <strong><span id='total_cit'>60+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) and [github stars 3682](https://github.com/SheldongChen).
 
 
 # 🔥 News
