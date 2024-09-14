@@ -34,7 +34,7 @@ My research interests include multimedia computing, computer vision, and their a
         const cachedStars = localStorage.getItem(cacheKey);
 
         if (cachedStars && cachedTime && (Date.now() - cachedTime < cacheDuration)) {
-            resultElement.textContent = `Cached Total Stars: ${cachedStars}`;
+            resultElement.textContent = `total github stars (counted within 1 hours): ${cachedStars}`;
             return;
         }
 
