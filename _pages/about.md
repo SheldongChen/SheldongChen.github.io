@@ -23,6 +23,7 @@ My research interests include multimedia computing, computer vision, and their a
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 USTC Doctoral Education Innovation Award.
 - *2024.08*: &nbsp;🎉🎉 SIGMM Student Travel Grant Award.
 - *2024.07*: &nbsp;🎉🎉 two paper are accpepted by ACM Multimedia.
 - *2024.06*: &nbsp;🎉🎉 one paper are published by CVPR.
@@ -69,13 +70,14 @@ My research interests include multimedia computing, computer vision, and their a
 
 
 # 📝 Honors
-- *2024.08*, SIGMM Student Travel Grant Award.
-- *2023.02*, National Scholarship.
-- *2022.06*, IEEE MSA-Technical Committee Best Paper Award-Honorable Mention.
-- *2021.12*, Hua Wei Scholarship.
-- *2021.09*, First Runner-up in ICCV 2021 [DeeperAction](https://deeperaction.github.io/iccv21) Challenge - Kinetics-TPS Track.
-- *2020-2024*, First Prize of Ph.D/M.D Scholarship
-- *2016-2020*, Gold Scholarship for Outstanding Students
+- *2024.09*, USTC Doctoral Education Innovation Award
+- *2024.08*, SIGMM Student Travel Grant Award
+- *2023.02*, National Scholarship
+- *2022.06*, IEEE MSA-Technical Committee Best Paper Award-Honorable Mention
+- *2021.12*, Hua Wei Scholarship
+- *2021.09*, First Runner-up in ICCV 2021 [DeeperAction](https://deeperaction.github.io/iccv21) Challenge - Kinetics-TPS Track
+- *2020-2025*, USTC First Prize of Ph.D/M.D Scholarship
+- *2016-2019*, USTC Gold Scholarship for Outstanding Students
 
 # 💻 Internships
 - *2021.04 - 2024.06*, JD.com, Research Intern, China.
