@@ -70,14 +70,20 @@ My research interests include multimedia computing, computer vision, and their a
 
 
 # 📝 Honors
-- *2024.09*, USTC Doctoral Education Innovation Award
-- *2024.08*, SIGMM Student Travel Grant Award
-- *2023.02*, National Scholarship
+- *2024.09*, USTC Doctoral Education Innovation Award (¥10000 RMB)
+- *2024.09*, USTC First Prize of Ph.D Scholarship (¥18000 RMB)
+- *2024.08*, SIGMM Student Travel Grant Award  ($1500 AUD)
+- *2023.09*, USTC First Prize of Ph.D Scholarship (¥18000 RMB)
+- *2023.02*, National Scholarship (¥20000 RMB)
+- *2022.09*, USTC First Prize of Ph.D Scholarship (¥18000 RMB)
 - *2022.06*, IEEE MSA-Technical Committee Best Paper Award-Honorable Mention
-- *2021.12*, Hua Wei Scholarship
+- *2021.12*, Hua Wei Scholarship (¥8000 RMB)
+- *2021.09*, USTC First Prize of M.D Scholarship (¥12000 RMB)
 - *2021.09*, First Runner-up in ICCV 2021 [DeeperAction](https://deeperaction.github.io/iccv21) Challenge - Kinetics-TPS Track
-- *2020-2025*, USTC First Prize of Ph.D/M.D Scholarship
-- *2016-2019*, USTC Gold Scholarship for Outstanding Students
+- *2020.09*, USTC First Prize of M.D Scholarship (¥12000 RMB)
+- *2019.09*, USTC Gold Scholarship for Outstanding Students (¥4000 RMB)
+- *2018.09*, USTC Gold Scholarship for Outstanding Students (¥4000 RMB)
+- *2017.09*, USTC Silver Scholarship for Outstanding Students (¥2000 RMB)
 
 # 💻 Internships
 - *2021.04 - 2024.06*, JD.com, Research Intern, China.
