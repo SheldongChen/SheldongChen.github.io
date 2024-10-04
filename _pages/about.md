@@ -40,7 +40,7 @@ My research interests include multimedia computing, computer vision, and their a
   - Hengyuan Liu, **Xiaodong Chen**, Xinchen Liu, Xiaoyan Gu, Wu Liu
   - 2024 Proceedings of the 32th ACM International Conference on Multimedia
 
-- [CVPR'24] [ChatVTG: Video Temporal Grounding via Chat with Video Dialogue Large Language Models](https://openaccess.thecvf.com/content/CVPR2024W/PVUW/papers/Qu_ChatVTG_Video_Temporal_Grounding_via_Chat_with_Video_Dialogue_Large_CVPRW_2024_paper.pdf)
+- [CVPR'24] [ChatVTG: Video Temporal Grounding via Chat with Video Dialogue Large Language Models]()
   - Mengxue Qu, **Xiaodong Chen**, Wu Liu, Alicia Li, Yao Zhao
   - 2024 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
