@@ -31,16 +31,16 @@ My research interests include multimedia computing, computer vision, and their a
 
 # 📝 Publications 
 
-- [MM'24] [CLaM: An Open-Source Library for Performance Evaluation of Text-driven Human Motion Generation]()
+- [MM'24] [CLaM: An Open-Source Library for Performance Evaluation of Text-driven Human Motion Generation](https://xiaodongchen.cn/paper/MM24_CLaM.pdf)
   - **Xiaodong Chen**, Kunlang He, Wu Liu, Xinchen Liu, Zheng-Jun Zha, Tao Mei
   - 2024 Proceedings of the 32th ACM International Conference on Multimedia
   - The code is released in the [CLAM](https://github.com/SheldongChen/CLaM) repository ![](https://img.shields.io/github/stars/SheldongChen/CLaM?color=green&style=social)
 
-- [MM'24] [AnimateAnywhere: Context-Controllable Human Video Generation with ID-Consistent One-shot Learning]()
+- [MM'24] [AnimateAnywhere: Context-Controllable Human Video Generation with ID-Consistent One-shot Learning](https://xiaodongchen.cn/paper/MM24_AnywhereAnyone.pdf)
   - Hengyuan Liu, **Xiaodong Chen**, Xinchen Liu, Xiaoyan Gu, Wu Liu
   - 2024 Proceedings of the 32th ACM International Conference on Multimedia
 
-- [CVPR'24] [ChatVTG: Video Temporal Grounding via Chat with Video Dialogue Large Language Models]()
+- [CVPR'24] [ChatVTG: Video Temporal Grounding via Chat with Video Dialogue Large Language Models](https://xiaodongchen.cn/paper/CVPR24_ChatVTG_Video_Temporal_Grounding_via_Chat_with.pdf)
   - Mengxue Qu, **Xiaodong Chen**, Wu Liu, Alicia Li, Yao Zhao
   - 2024 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
