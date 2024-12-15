@@ -44,6 +44,14 @@ My research interests include multimedia computing, computer vision, and their a
   - Mengxue Qu, **Xiaodong Chen**, Wu Liu, Alicia Li, Yao Zhao
   - 2024 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
+- [Arxiv'24] [Motion Capture from Inertial and Vision Sensors](https://xiaodongchen.cn)
+  - **Xiaodong Chen**, Wu Liu, Qian Bao, Xinchen Liu, Quanwei Yang, Ruoli Dai, Tao Mei
+  - 2024 arXiv preprint arXiv:2407.16341
+
+- [Arxiv'24] [T-SVG: Text-Driven Stereoscopic Video Generation](https://xiaodongchen.cn)
+  - Qiao Jin, **Xiaodong Chen**, Wu Liu, Tao Mei, Yongdong Zhang
+  - 2024 arXiv preprint arXiv:2412.09323
+
 - [MM'22] [MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised Point Cloud Action Recognition](https://arxiv.org/pdf/2209.00407)
   - **Xiaodong Chen**, Wu Liu, Xinchen Liu, Yongdong Zhang, Jungong Han, Tao Mei
   - 2022 Proceedings of the 30th ACM International Conference on Multimedia
