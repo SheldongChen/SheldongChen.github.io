@@ -23,11 +23,11 @@ My research interests include multimedia computing, computer vision, and their a
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 two paper are published by ACM Multimedia.
 - *2024.09*: &nbsp;🎉🎉 USTC Doctoral Education Innovation Award.
 - *2024.08*: &nbsp;🎉🎉 SIGMM Student Travel Grant Award.
-- *2024.07*: &nbsp;🎉🎉 two paper are accpepted by ACM Multimedia.
-- *2024.06*: &nbsp;🎉🎉 one paper are published by CVPR.
-- *2020.06*: &nbsp;🎉🎉 FastReID are published by ACM Multimedia, a powerful toolbox of instance re-identification for academia and industry. It achieves state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [CODE](https://github.com/JDAI-CV/fast-reid) for more details.
+- *2024.06*: &nbsp;🎉🎉 one paper is published by CVPR.
+- *2020.06*: &nbsp;🎉🎉 FastReID is a powerful toolbox of instance re-identification for academia and industry. It achieves state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [CODE](https://github.com/JDAI-CV/fast-reid) for more details.
 
 # 📝 Publications 
 
