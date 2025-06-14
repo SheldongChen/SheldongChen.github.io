@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am currently studying for a Ph. D. degree in University Of Science And Technology Of China (USTC). My supervisor is Prof. Zheng-Jun Zha. 
-I am also a Junior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. Wu Liu and Dr. Tao Mei.
+I was also a Junior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. Wu Liu and Dr. Tao Mei.
 
 My research interests include multimedia computing, computer vision, and their applications in retail. I have published 8 papers at the international conferences with total <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=FZJ-fFYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) and [github stars 3682](https://github.com/SheldongChen).
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 one paper is published by CVPR.
 - *2024.11*: &nbsp;🎉🎉 two paper are published by ACM Multimedia.
 - *2024.09*: &nbsp;🎉🎉 USTC Doctoral Education Innovation Award.
 - *2024.08*: &nbsp;🎉🎉 SIGMM Student Travel Grant Award.
@@ -30,6 +31,10 @@ My research interests include multimedia computing, computer vision, and their a
 - *2020.06*: &nbsp;🎉🎉 FastReID is a powerful toolbox of instance re-identification for academia and industry. It achieves state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [CODE](https://github.com/JDAI-CV/fast-reid) for more details.
 
 # 📝 Publications 
+
+- [CVPR'25] [M-Adaptor: Text-driven Whole-body Human Motion Generation](https://xiaodongchen.cn/paper/CVPR2025_T2M.pdf)
+  - Alicia Li, **Xiaodong Chen (Corresponding author)**, Bohao Liang, Qian Bao, Wu Liu
+  - 2025 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
 - [MM'24] [CLaM: An Open-Source Library for Performance Evaluation of Text-driven Human Motion Generation](https://xiaodongchen.cn/paper/MM24_CLaM.pdf)
   - **Xiaodong Chen**, Kunlang He, Wu Liu, Xinchen Liu, Zheng-Jun Zha, Tao Mei
@@ -80,7 +85,7 @@ My research interests include multimedia computing, computer vision, and their a
 # 📝 Honors
 - *2024.09*, **USTC Doctoral Education Innovation Award**
 - *2024.09*, USTC First Prize of Ph.D Scholarship
-- *2024.08*, **SIGMM Student Travel Grant Award**
+- *2024.08*, **ACM/SIGMM Student Travel Grant Award**
 - *2023.09*, USTC First Prize of Ph.D Scholarship
 - *2023.02*, **National Scholarship**
 - *2022.09*, USTC First Prize of Ph.D Scholarship
@@ -94,6 +99,7 @@ My research interests include multimedia computing, computer vision, and their a
 - *2017.09*, USTC Silver Scholarship for Outstanding Students
 
 # 💻 Internships
+- *2024.12 - Now*, Meituan, Research Intern, China.
 - *2021.04 - 2024.06*, JD.com, Research Intern, China.
 
 # 📖 Educations
