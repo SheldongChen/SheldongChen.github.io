@@ -19,10 +19,12 @@ redirect_from:
 I am currently studying for a Ph. D. degree in University Of Science And Technology Of China (USTC). My supervisor is Prof. Zheng-Jun Zha. 
 I was also a Junior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. Wu Liu and Dr. Tao Mei.
 
-My research interests include multimedia computing, computer vision, and their applications in retail. I have published 9 papers at the international conferences with total [google scholar citations 150+](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ) and [github stars 3700+](https://github.com/SheldongChen).
+My research interests include multimedia computing, computer vision, and their applications in retail. I have published 11 papers at the international conferences with total [google scholar citations 150+](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ) and [github stars 3700+](https://github.com/SheldongChen).
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 one paper is accepted by CVPR.
+- *2026.01*: &nbsp;🎉🎉 one paper is accepted by ICASSP.
 - *2025.06*: &nbsp;🎉🎉 one paper is published by CVPR.
 - *2024.11*: &nbsp;🎉🎉 two paper are published by ACM Multimedia.
 - *2024.09*: &nbsp;🎉🎉 USTC Doctoral Education Innovation Award.
@@ -31,6 +33,15 @@ My research interests include multimedia computing, computer vision, and their a
 - *2020.06*: &nbsp;🎉🎉 FastReID is a powerful toolbox of instance re-identification for academia and industry. It achieves state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [CODE](https://github.com/JDAI-CV/fast-reid) for more details.
 
 # 📝 Publications 
+
+
+- [CVPR'26] [Multi-level Causal LLM-based Text-to-Motion Generation with Human Alignment](https://xiaodongchen.cn/)
+  - **Xiaodong Chen**, Qian Bao, Xudong Liu, Jianping Fang, Jintao Fang, Yongdong Zhang, Tao Mei, Wu Liu
+  - 2026 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+
+- [ICASSP'26] [STABLE LAYOUT IMAGE DIFFUSION FOR CONTENT-AWARE LAYOUT GENERATION](https://xiaodongchen.cn/)
+  - Hengyuan Liu, Qian Bao, **Xiaodong Chen**, Huaiwen Wu, Xudong Liu, Jianping Fang, Jintao Fang2, Xiaoyan Gu, Wu Liu
+  - 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing
 
 - [CVPR'25] [M-Adaptor: Text-driven Whole-body Human Motion Generation](https://xiaodongchen.cn/paper/CVPR2025_T2M.pdf)
   - Alicia Li, **Xiaodong Chen (Corresponding author)**, Bohao Liang, Qian Bao, Wu Liu
