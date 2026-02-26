@@ -19,7 +19,7 @@ redirect_from:
 I am currently studying for a Ph. D. degree in University Of Science And Technology Of China (USTC). My supervisor is Prof. Zheng-Jun Zha. 
 I was also a Junior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. Wu Liu and Dr. Tao Mei.
 
-My research interests include multimedia computing, computer vision, and their applications in retail. I have published 11 papers at the international conferences with total [google scholar citations 150+](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ) and [github stars 3700+](https://github.com/SheldongChen).
+My research interests include multimedia computing, computer vision, and their applications in retail. I have published 11 papers at the international conferences with total [google scholar citations 200+](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ) and [github stars 3700+](https://github.com/SheldongChen).
 
 
 # 🔥 News
