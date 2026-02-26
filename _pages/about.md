@@ -43,9 +43,9 @@ My research interests include multimedia computing, computer vision, and their a
   - Hengyuan Liu, Qian Bao, **Xiaodong Chen**, Huaiwen Wu, Xudong Liu, Jianping Fang, Jintao Fang2, Xiaoyan Gu, Wu Liu
   - 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing
 
-- [TMM'25] [Motion Capture from Inertial and Vision Sensors](https://xiaodongchen.cn)
+- [TMM'26] [Motion Capture from Inertial and Vision Sensors](https://xiaodongchen.cn)
   - **Xiaodong Chen**, Wu Liu, Qian Bao, Xinchen Liu, Ruoli Dai, Yongdong Zhang, Tao Mei
-  - 2025 IEEE Transactions on Multimedia
+  - 2026 IEEE Transactions on Multimedia
 
 - [CVPR'25] [M-Adaptor: Text-driven Whole-body Human Motion Generation](https://xiaodongchen.cn/paper/CVPR2025_T2M.pdf)
   - Alicia Li, **Xiaodong Chen (Corresponding author)**, Bohao Liang, Qian Bao, Wu Liu
