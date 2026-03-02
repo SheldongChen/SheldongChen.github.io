@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaodong Chen"
-description              : "The homepage of Xiaodong Chen. "
+title                    : "Xiaodong Chen (SheldongChen)"
+description              : "The homepage of Xiaodong Chen (SheldongChen). "
 repository               : "SheldongChen/SheldongChen.github.io"
 google_scholar_stats_use_cdn : true
 
