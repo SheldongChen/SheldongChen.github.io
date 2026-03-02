@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am currently studying for a Ph. D. degree in University Of Science And Technology Of China (USTC). My supervisor is Dr. Tao Mei (Fellow of the Canadian Academy of Engineering) and Prof. Zheng-Jun Zha. 
 In 2026, I was selected as a Meituan Genius Youth (Beidou Program) and serve as an Algorithm Expert. I was also a Junior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. Wu Liu.
+
 我目前在中国科学技术大学（USTC）攻读博士学位，导师是梅涛院士和查正军教授。我于26年入选美团天才少年（北斗计划），担任算法专家一职；我也曾是京东AI研究院计算机视觉与多媒体实验室的初级研究员，与刘武博士合作。
 
 My research interests include multimedia computing, computer vision, and their applications in retail. I have published 10+ papers at the international conferences with total [google scholar citations 200+](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ) and [github stars 3700+](https://github.com/SheldongChen).
+
 我的研究兴趣包括多媒体计算、计算机视觉及其在零售领域的应用。我在国际会议上发表了10+篇论文，总[谷歌学术引用200+](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ)和[GitHub星标3700+](https://github.com/SheldongChen)。
 
 
