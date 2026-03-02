@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaodong Chen"
+  name             : "Xiaodong Chen (SheldongChen)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Science and Technology of China"
-  location         : "Hefei, China"
+  bio              : "University of Science and Technology of China, Zhejiang University"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FZJ-fFYAAAAJ"
