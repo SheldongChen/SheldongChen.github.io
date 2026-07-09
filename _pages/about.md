@@ -27,12 +27,12 @@ My research interests include multimedia computing, computer vision, and their a
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 one paper is accepted by CVPR.
-  - *2026.02*: &nbsp;🎉🎉 一篇论文被CVPR接收。
+- *2026.06*: &nbsp;🎉🎉 one paper is published by CVPR.
+  - *2026.06*: &nbsp;🎉🎉 一篇论文发表在CVPR。
+- *2026.05*: &nbsp;🎉🎉 one paper is published by ICASSP.
+  - *2026.05*: &nbsp;🎉🎉 一篇论文发表在ICASSP。
 - *2026.02*: &nbsp;🎉🎉 one paper is accepted by TMM.
   - *2026.02*: &nbsp;🎉🎉 一篇论文被TMM接收。
-- *2026.01*: &nbsp;🎉🎉 one paper is accepted by ICASSP.
-  - *2026.01*: &nbsp;🎉🎉 一篇论文被ICASSP接收。
 - *2025.06*: &nbsp;🎉🎉 one paper is published by CVPR.
   - *2025.06*: &nbsp;🎉🎉 一篇论文发表在CVPR。
 - *2024.11*: &nbsp;🎉🎉 two paper are published by ACM Multimedia.
